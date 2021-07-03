@@ -1,0 +1,7 @@
+{
+  "name": "react_ionic-event",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
